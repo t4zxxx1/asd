@@ -2,8 +2,8 @@
     "Siti": {
            "StreamingCommunity": {
                "url": "https://streamingcommunity.lu",
-               "SC_ForwardProxy": "1",
-               "SC_PROXY": "1",
+               "SC_ForwardProxy": "0",
+               "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
                "VX_PROXY": "0",
                "enabled": "1"
@@ -14,8 +14,8 @@
            },
            "Tantifilm":{
                "url": "https://www.tanti.bond",
-               "TF_ForwardProxy": "1",
-               "TF_PROXY": "1",
+               "TF_ForwardProxy": "0",
+               "TF_PROXY": "0",
                "enabled": "1"
            },
            "Mysterius":{
@@ -31,8 +31,8 @@
           },
           "CB01":{
               "url":"https://cb01new.win",
-              "CB_PROXY":"1",
-              "CB_ForwardProxy":"1",
+              "CB_PROXY":"0",
+              "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
               "enabled":"1"
@@ -88,6 +88,6 @@
        "Icon": "🍕️",
        "Public_Instance": "0",
        "Remote_Instance": "1",
-       "Global_Proxy": "1"
+       "Global_Proxy": "0"
        }
 }
